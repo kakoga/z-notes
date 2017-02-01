@@ -35,3 +35,6 @@ ADD TO DOCUMENTATION
     Bad:
       {{ if {page.title} == Home }}  
   (technically both work, however it taxes the server much more without quotes)
+  
+## Each loops
+    each loops, depending on the code, act as their own if-statement or has if-statement-like properties. 
