@@ -38,3 +38,6 @@ ADD TO DOCUMENTATION
   
 ## Each loops
     each loops, depending on the code, act as their own if-statement or has if-statement-like properties. 
+    
+## Commenting 
+    You can comment out lines in the Editor using (**  **) around the line that you want to comment out. eg (** <li>some line</li>**)
